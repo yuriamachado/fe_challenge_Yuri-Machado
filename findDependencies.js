@@ -70,5 +70,5 @@ if(argv.e) {
   let order = 1;
   checkFiles(path, level, order);
 } else {
-  console.log("Please select a file, using this command: $ node findDependecies.js -e [file name]");
+  console.log("Please select a file, using this command: $ node findDependencies.js -e [file name]");
 }
