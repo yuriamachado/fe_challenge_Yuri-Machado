@@ -10,7 +10,7 @@ of execution;
 $ npm install
 ```
 
-##Usage
+## Usage
 
 ```
 $ node findDependecies.js -e [file name]
