@@ -13,7 +13,7 @@ $ npm install
 ## Usage
 
 ```
-$ node findDependecies.js -e [file name]
+$ node findDependencies.js -e [file name]
 ```
 
 For testing, I've created some javascript files.
